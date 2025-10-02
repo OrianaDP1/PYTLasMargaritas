@@ -1,0 +1,7 @@
+.hero h1 {
+  font-size: 3rem;
+}
+.card img {
+  height: 200px;
+  object-fit: cover;
+}
